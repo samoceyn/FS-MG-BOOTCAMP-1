@@ -5,6 +5,6 @@ encription kullanırdım çünkü diğerlerine göre daha güvenli şifrenin kı
 3 şifreleme methodu da birbirine benzer ama farklılıkları tarzlarıdır mesela encryptionda farklı key kullanılırken hash ve encode edilirken şifre üzerinden şiifrelenir çözmek için ayrı bi key e ihtiyaçları yoktur
 
 
-
+8) E
 9) C
 10) sql injection vardır burda giriş bilgilerini direkt alıyor herhangi bi filtre vs yoktur bu sayede sql kodu yazıp çalıştırarak veritabanındaki bilgileri görme yetkisine ve veritabanında işlem vs yapma yetkisine sahip olur 
