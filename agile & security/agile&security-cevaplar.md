@@ -7,3 +7,4 @@ encription kullanırdım çünkü diğerlerine göre daha güvenli şifrenin kı
 
 
 9) C
+10) sql injection vardır burda giriş bilgilerini direkt alıyor herhangi bi filtre vs yoktur bu sayede sql kodu yazıp çalıştırarak veritabanındaki bilgileri görme yetkisine ve veritabanında işlem vs yapma yetkisine sahip olur 
